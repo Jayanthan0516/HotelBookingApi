@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HotelBookingApi.Tests/HotelBookingApi.Tests.csproj" Id="ef6f71ef-303d-4a08-90ba-feb77901545a" />
+  <Project Path="HotelBookingApi/HotelBookingApi.csproj" />
+</Solution>
